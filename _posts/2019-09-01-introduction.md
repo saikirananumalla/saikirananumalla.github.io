@@ -7,7 +7,7 @@ Hey! I am Sai Kiran Anumalla, Junior Year CS Undergrad from [IIT(BHU)](https://i
 I occasionally write about Spirituality, Programming and Love.
 <br><br>
 The best way to get in touch with me is by [mail](mailto:saikiran.anumalla.cse17@iitbhu.ac.in)  
-I like to keep things crisp and short here. Just in case, here is my [full profile](https://www.linkedin.com/in/saikirananumalla)
+I like to keep things crisp and short here. Just in case, here is my [full profile](linktr.ee/saikirananumalla)
 
 
 
