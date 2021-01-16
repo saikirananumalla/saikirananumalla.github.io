@@ -3,7 +3,7 @@ layout: post
 title: A little about myself!
 ---
 
-Hey! I am Sai Kiran Anumalla, Junior Year CS Undergrad from [IIT(BHU)](https://iitbhu.ac.in).  
+Hey! I am Sai Kiran Anumalla, Final Year CS Undergrad from [IIT(BHU)](https://iitbhu.ac.in).  
 I occasionally write about Spirituality, Programming and Love.
 <br><br>
 The best way to get in touch with me is by [mail](mailto:saikiran.anumalla.cse17@iitbhu.ac.in)  
