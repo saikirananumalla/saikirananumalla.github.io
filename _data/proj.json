@@ -1,22 +1,18 @@
 [
     {
-        "title": "Course Allotment Simulation using SAT Solver",
-        "description": "As part of Bachelors project, worked on solving the real world problem of finding a best course allocation under various constraints as a SAT (Satisfiability) problem and infer effects of different policies on course allotment and choices. Studied relative efficiency of various heuristics modeled on different solvers like MiniSAT and Glucose.",
-        "languages": "C++ MiniSAT Glucose"
+        "title": "Link Prediction in Complex Networks",
+        "description": "As part of Bachelors project, implemented a novel framework based on the mutual information of network structures which not only did improve the prediction accuracy substantially, but also experienced reasonable computing complexity. Also compared its accuracy with various local simlarity based approaches like Common Neighbors, CAR, CRA, Resource Allocation for various datasets"
     },
     {
-        "title": "IIT Bombay Hospital Digitization",
-        "description": "Created a complete web application in Java that could handle operations on relational MySQL databases to handle various processes of the university hospital.",
-        "languages": "Java MySQL"
+        "title": "Dealing with Imbalanced Data",
+        "description": "Explored different methods for dealing with imbalanced dataset like, Credit Card Fraud Detection Dataset with only 0.2 percent of transactions being classified as fraudulent. Compared scores of various metrics on methods like oversampling minority class, undersampling majority class, generate synthetic samples using SMOTE. Employed various algorithms like CNN, Linear Regression and Random Forests Classifier for classification"
     },
     {
-        "title": "Simple 2D Physics Engine",
-        "description": "Wrote a physics engine for simple round bodies providing a back-end that could generate coordinates in real-time with collision, gravity, restitution and custom resolution of time.",
-        "languages": "C++"
+        "title": "Campus supermarket digitization",
+        "description": "Developed a relational database management system using MySQL, Java and Springboot, wherein the owner and employees can manage the data like customers, sales, invoices, expenses, employees and products. Implemented user authentication and authorization for employees and owner using Spring Security"
     },
     {
-        "title": "Social Sea",
-        "description": "Create a lightweight social search engine that shows the results ranked (using page-ranking) according to one's peer-group search history and rating.",
-        "languages": "PHP HTML javascript"
+        "title": "Face Recognition based Attendance System",
+        "description": "Implemented LBP algorithm for face recognition and OpenCV for face detection. Trained the model using calTech faces dataset and achieved an accuracy of 96 percent. Developed a web app using Django in Python around this algorithm"
     }
 ]

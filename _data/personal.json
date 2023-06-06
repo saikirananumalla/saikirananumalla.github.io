@@ -1,39 +1,42 @@
 [
     {
-        "name": "Kumar Pallav",
-        "website": "http://kumarpallav.com",
-        "email": "me@kumarpallav.com",
-        "email2": "pforpallav@gmail.com",
-        "phone": "+1-xxx-xxx-xxxx",
-        "linkedin":"https://www.linkedin.com/in/kumar-pallav-156a1657/",
-        "facebook":"https://www.facebook.com/pforpallav",
-        "github":"https://github.com/pforpallav",
+        "name": "Sai Kiran Anumalla",
+        "website": "https://saikirananumalla.github.io/",
+        "email": "saikirananumalla@gmail.com",
+        "email2": "anumalla.s@northeastern.edu",
+        "phone": "+917989669876",
+        "linkedin":"https://www.linkedin.com/in/saikirananumalla/",
+        "facebook":"https://www.facebook.com/saikirananumalla",
+        "github":"https://github.com/saikirananumalla",
         "languages": [
-            {
-                "language": "C++"
-            },
-            {
-                "language": "C\\#"
-            },
-            {
-                "language": "JavaScript"
-            },
             {
                 "language": "Java"
             },
             {
-                "language": "C"
+                "language": "C/C++"
+            },
+            {
+                "language": "Python"
             }
         ],
         "technologies": [
             {
-                "technology": "NodeJs"
+                "technology": "Springboot"
             },
             {
-                "technology": "UWP"
+                "technology": "Git"
             },
             {
-                "technology": "Win32"
+                "technology": "SQL"
+            },
+            {
+                "technology": "Redis"
+            },
+            {
+                "technology": "Kafka"
+            },
+            {
+                "technology": "Azure"
             }
         ]
     }

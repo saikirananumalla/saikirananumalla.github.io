@@ -1,73 +1,39 @@
 [
     {
-        "company": "Microsoft",
-        "company_location": "Redmond, WA",
-        "role": "Software Engineer",
-        "team": "OneNote",
-        "time_duration": "Jun 2016 - Present",
+        "company": "BNY Mellon Technology",
+        "company_location": "Pune, India",
+        "role": "Lead Full Stack Developer",
+        "team": "Eagle Investment Systems",
+        "time_duration": "Jun 2021 - Jul 2023",
         "details": [
-        	{
-                "title": "Modern Hierarchy Sync",
-                "description": "Worked on a new sync platform which would load notebook structure and hierarchy faster than the current state of the art. Implemented client side representation of this hierarchy, derived from existing representation. Added functionality to be able use the new representation without the need of resetting cache or reloading the notebook. Built a small tool to visualize and debug this new representation.",
-                "languages":"C++ nodejs"
-            },
-        	{
-                "title": "Notebook Cloud Migration",
-                "description": "Componentized native code from OneNote desktop app to convert local OneNote notebooks to cloud compatible notebooks. This was used in the new SharePoint Migration Tool.",
-                "languages": "C++ C\\#"
+            {
+                "title":"",
+                "description": "Designed, implemented, and tested various features for microservices based on Springboot"
             },
             {
-                "title": "Magic Ink Lookup and Whiteboard App",
-                "description": "Worked on recognizing ink strokes into words (using onboard IA) and recognizing keywords/entities given the context (using custom entity recognition service). Implemented accumulation of images and interactive widgets (from various online sources) related to the keyword, to be inserted onto Whiteboard canvas. Implemented sharing experience for the new collaboration focused Whiteboard app which included creating and joining a shared session.",
-                "languages": "C++ C\\#"
+                "title":"",
+                "description": "Contributed to the development of a cross-component data service focused on orchestrating and publishing data from upstream to downstream systems"
             },
             {
-                "title": "Content Addins",
-                "description": "Implemented content addins, for OneNote desktop app, as small embedded web apps that would get hosted within managed WebView controls. Created their persistence model and rendering on the desktop app.",
-                "languages": "C++ nodejs"                
+                "title":"",
+                "description": "Created camunda based tasks in microservices for orchestrating workflows"
+            },
+            {
+                "title":"",
+                "description": "Worked in Agile Methodology using Scrum"
             }
         ]
     },
     {
-        "company": "Microsoft",
-        "company_location": "Vancouver, Canada",
-        "role": "Software Engineer",
-        "team": "OneNote",
-        "time_duration": "Nov 2014 - May 2016",
+        "company": "Samsung Reasearch and Development Institute",
+        "company_location": "Noida, India",
+        "role": "Software Developer Intern",
+        "team": "Advanced Computer Systems",
+        "time_duration": "May 2020 - Jun 2020",
         "details": [
             {
-                "title": "Embedded Videos and Web Content",
-                "description": "Worked on adding ability on OneNote to host web content, making sure it is backwards compatible. Implemented features to make handling and editing web content on the OneNote page easier. Added support for this feature on OneNote web app.",
-                "languages": "C++ C\\#"
-            },
-            {
-                    "title": "Merged Cells for Tables",
-                    "description": "Added support for spanned cells for tables in OneNote, keeping in mind backwards compatibility. Implemented these capabilities in OneNote web app.",
-                    "languages": "C++ C\\#"
-            },
-            {
-                "title": "Realtime Ink",
-                "description": "As a ramp up project, prototyped ink collaboration using SignalR web-sockets. Worked on experimenting load and delay with multiple inputs in realtime.",
-               	"languages": "C++ C\\#"
-            }
-        ]
-    },
-    {
-        "company": "Oracle",
-        "company_location": "Bangalore, India",
-        "role": "Software Engineering Intern",
-        "team": "Apps for Enterprises",
-        "time_duration": "May 2013 - July 2013",
-        "details": [
-            {
-                "title": "Containerization of iOS Apps",
-                "description": "Worked on sand-boxing of enterprise applications (containerization), enabling their installation on employee's iOS devices, without worrying about security concerns. Implemented wrapping of library function calls using swizzling, objective-c backend, linker flags and dynamic library injection.",
-                "languages": "Objective-C C"
-            },
-            {
-                "title": "Sandboxed Browser App",
-                "description": "Built a demo browser application for iOS. Containerized the app using the custom script, for it to work only for whitelisted urls.",
-                "languages": "Objective-C"
+                "title": "",
+                "description": "Worked on a project titled Dense Captioning Events in Videos which uses Bi-modal Transformer with Proposal Generator (BMT), which efficiently utilizes audio and visual input sequences to select events in a video and, then, use these clips to generate a textual description"
             }
         ]
     }

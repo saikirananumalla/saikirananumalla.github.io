@@ -1,8 +1,15 @@
 [
     {
-        "school": "Indian Institute of Technology, Bombay",
-        "school_location": "Mumbai, India",
-        "degree": "Bachelor of Computer Science and Engineering (with Hons.); CGPA 8.6/10",
-        "time_period": "Jun 2010 - May 2014"
+        "school": "Northeastern University",
+        "school_location": "Boston, Massachussets",
+        "degree": "Master of Science in Computer Science",
+        "time_period": "Sep 2023 - Dec 2025"
+    },
+
+    {
+        "school": "Indian Institute of Technology (BHU) Varanasi",
+        "school_location": "Varanasi, India",
+        "degree": "Bachelor of Technology in Computer Science and Engineering; CGPA 8.34/10",
+        "time_period": "Jul 2017 - May 2021"
     }
 ]
