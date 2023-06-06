@@ -62,6 +62,10 @@ title: Sai Kiran Anumalla
         <div class="content">
           <span class="heading"><h3>Projects</h3></span>
           {% for project in site.data.proj %}
+            <p class="heading is-marginless">
+              {{ project.title }}
+              <span style="margin-left:  5px; font-size: 10px; font-family:  monospace; color: #00d1b2;">{{ project.languages }}</span>
+            </p>
             <p style="font-size: 0.8rem">{{ project.description }}</p>
           {% endfor %}
         </div>
